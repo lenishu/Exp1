@@ -1,0 +1,6 @@
+JobId,SessionId,Status,Reason,Created,Completed,Program,Name,Service,Instance,Tags,Usage (seconds)
+ct8fq2wcvhg0008wpgw0,ct8f808wmw20008whj8g,Cancelled,,2024-07-12T09:46:51.397222Z,2024-07-12T12:24:10.330385Z,estimator,,ibm_kyoto,ibm-q/open/main,,0
+ct8fg0rwmw20008whk90,ct8f808wmw20008whj8g,Completed,,2024-07-12T09:31:47.618605Z,2024-07-12T09:46:47.612Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8fcb97rgf00085nt40,ct8f808wmw20008whj8g,Completed,,2024-07-12T09:23:57.877545Z,2024-07-12T09:31:44.388Z,estimator,,ibm_kyoto,ibm-q/open/main,,8
+ct8fbkecvhg0008wpfg0,ct8f808wmw20008whj8g,Completed,,2024-07-12T09:22:21.630534Z,2024-07-12T09:23:54.681Z,estimator,,ibm_kyoto,ibm-q/open/main,,7
+ct8f80gykbsg008yzar0,ct8f808wmw20008whj8g,Completed,,2024-07-12T09:14:42.713008Z,2024-07-12T09:22:18.592Z,estimator,,ibm_kyoto,ibm-q/open/main,,8

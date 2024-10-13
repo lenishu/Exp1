@@ -1,0 +1,27 @@
+JobId,SessionId,Status,Reason,Created,Completed,Program,Name,Service,Instance,Tags,Usage (seconds)
+ct8k4a9cvhg0008wq6a0,ct8jx2cykbsg008yzzr0,Cancelled,,2024-07-12T13:39:53.672048Z,2024-07-12T13:57:44.289075Z,estimator,,ibm_kyoto,ibm-q/open/main,,0
+ct8k410qsez0008a2zv0,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:39:16.396221Z,2024-07-12T13:39:50.504Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8k3rfykbsg008z016g,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:38:41.79323Z,2024-07-12T13:39:13.221Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8k3g67rgf00085pfy0,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:38:08.975993Z,2024-07-12T13:38:38.787Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8k36cwmw20008wja8g,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:37:30.080002Z,2024-07-12T13:38:05.425Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8k2y37rgf00085pfsg,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:36:56.185233Z,2024-07-12T13:37:26.957Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8k2na3b8m0008cab80,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:36:21.639471Z,2024-07-12T13:36:52.74Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8k2c1cvhg0008wq5xg,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:35:44.561612Z,2024-07-12T13:36:18.734Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8k238qsez0008a2z7g,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:35:10.132495Z,2024-07-12T13:35:41.365Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8k1tzwmw20008wj9v0,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:34:35.564847Z,2024-07-12T13:35:06.722Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8k1j6qsez0008a2z30,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:34:00.372473Z,2024-07-12T13:34:32.227Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8k195cvhg0008wq5pg,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:33:24.931675Z,2024-07-12T13:33:55.697Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8k10mwmw20008wj9mg,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:32:51.076799Z,2024-07-12T13:33:21.19Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8k0qtcvhg0008wq5mg,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:32:15.667739Z,2024-07-12T13:32:47.842Z,estimator,,ibm_kyoto,ibm-q/open/main,,7
+ct8k0f17rgf00085pfbg,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:31:40.836595Z,2024-07-12T13:32:11.586Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8k0507rgf00085pf7g,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:31:01.162215Z,2024-07-12T13:31:31.826Z,estimator,,ibm_kyoto,ibm-q/open/main,,8
+ct8jzwfykbsg008z00c0,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:30:25.901977Z,2024-07-12T13:30:58.004Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8jzex3b8m0008caa90,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:29:31.5613Z,2024-07-12T13:30:22.284Z,estimator,,ibm_kyoto,ibm-q/open/main,,8
+ct8jz34ykbsg008z0050,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:28:45.02069Z,2024-07-12T13:29:28.633Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8jyrk7rgf00085pewg,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:28:02.907859Z,2024-07-12T13:28:41.949Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8jyg2qsez0008a2yb0,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:27:28.412235Z,2024-07-12T13:27:59.879Z,estimator,,ibm_kyoto,ibm-q/open/main,,7
+ct8jy7gykbsg008yzzy0,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:26:54.97228Z,2024-07-12T13:27:25.157Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8jxz7qsez0008a2y8g,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:26:20.613297Z,2024-07-12T13:26:51.397Z,estimator,,ibm_kyoto,ibm-q/open/main,,7
+ct8jxp67rgf00085pej0,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:25:44.895498Z,2024-07-12T13:26:16.297Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8jxbx7rgf00085pee0,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:25:03.203823Z,2024-07-12T13:25:35.694Z,estimator,,ibm_kyoto,ibm-q/open/main,,7
+ct8jx2wwmw20008wj8p0,ct8jx2cykbsg008yzzr0,Completed,,2024-07-12T13:24:27.956868Z,2024-07-12T13:24:59.323Z,estimator,,ibm_kyoto,ibm-q/open/main,,6

@@ -1,0 +1,7 @@
+JobId,SessionId,Status,Reason,Created,Completed,Program,Name,Service,Instance,Tags,Usage (seconds)
+ct8evjpqsez0008a2680,ct8eekacvhg0008wpcgg,Cancelled,,2024-07-12T08:48:10.896149Z,2024-07-12T12:24:09.42537Z,estimator,,ibm_kyoto,ibm-q/open/main,,0
+ct8es5wqsez0008a25v0,ct8eekacvhg0008wpcgg,Completed,,2024-07-12T08:43:03.923699Z,2024-07-12T08:48:07.853Z,estimator,,ibm_kyoto,ibm-q/open/main,,10
+ct8eqc57rgf00085npxg,ct8eekacvhg0008wpcgg,Completed,,2024-07-12T08:39:12.265479Z,2024-07-12T08:43:00.702Z,estimator,,ibm_kyoto,ibm-q/open/main,,8
+ct8ekme7rgf00085npkg,ct8eekacvhg0008wpcgg,Completed,,2024-07-12T08:31:13.764255Z,2024-07-12T08:39:08.878Z,estimator,,ibm_kyoto,ibm-q/open/main,,7
+ct8ek3wcvhg0008wpd4g,ct8eekacvhg0008wpcgg,Completed,,2024-07-12T08:30:08.033555Z,2024-07-12T08:31:10.654Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
+ct8eekj7rgf00085nnyg,ct8eekacvhg0008wpcgg,Completed,,2024-07-12T08:20:30.439523Z,2024-07-12T08:30:02.804Z,estimator,,ibm_kyoto,ibm-q/open/main,,6
